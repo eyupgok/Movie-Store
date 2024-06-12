@@ -1,0 +1,16 @@
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\bin\Debug\net8.0-windows\FilmAutomaiton.exe
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\bin\Debug\net8.0-windows\FilmAutomaiton.deps.json
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\bin\Debug\net8.0-windows\FilmAutomaiton.runtimeconfig.json
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\bin\Debug\net8.0-windows\FilmAutomaiton.dll
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\bin\Debug\net8.0-windows\FilmAutomaiton.pdb
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.Form1.resources
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.csproj.GenerateResource.cache
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.AssemblyInfoInputs.cache
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.AssemblyInfo.cs
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.csproj.CoreCompileInputs.cache
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.dll
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\refint\FilmAutomaiton.dll
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.pdb
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\FilmAutomaiton.genruntimeconfig.cache
+C:\Users\eg315\source\repos\FilmAutomaiton\FilmAutomaiton\obj\Debug\net8.0-windows\ref\FilmAutomaiton.dll

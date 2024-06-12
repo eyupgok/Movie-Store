@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|c:\\users\\eg315\\source\\repos\\filmautomaiton\\filmautomaiton\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|solutionrelative:filmautomaiton\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\filmautomaiton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|solutionrelative:filmautomaiton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\filmautomaiton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|solutionrelative:filmautomaiton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\filmautomaiton\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|solutionrelative:filmautomaiton\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\filmautomaiton\\rentedmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|solutionrelative:filmautomaiton\\rentedmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\filmautomaiton\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8751B8-7379-4B0D-9215-E55DAB4C189B}|FilmAutomaiton\\FilmAutomaiton.csproj|solutionrelative:filmautomaiton\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\Movie.cs",
+              "RelativeDocumentMoniker": "FilmAutomaiton\\Movie.cs",
+              "ToolTip": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\Movie.cs",
+              "RelativeToolTip": "FilmAutomaiton\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:31:30.258Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\Form1.cs",
+              "RelativeDocumentMoniker": "FilmAutomaiton\\Form1.cs",
+              "ToolTip": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\Form1.cs",
+              "RelativeToolTip": "FilmAutomaiton\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:09:19.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\Person.cs",
+              "RelativeDocumentMoniker": "FilmAutomaiton\\Person.cs",
+              "ToolTip": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\Person.cs",
+              "RelativeToolTip": "FilmAutomaiton\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:31:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentedMovie.cs",
+              "DocumentMoniker": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\RentedMovie.cs",
+              "RelativeDocumentMoniker": "FilmAutomaiton\\RentedMovie.cs",
+              "ToolTip": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\RentedMovie.cs",
+              "RelativeToolTip": "FilmAutomaiton\\RentedMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:16:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieStore.cs",
+              "DocumentMoniker": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\MovieStore.cs",
+              "RelativeDocumentMoniker": "FilmAutomaiton\\MovieStore.cs",
+              "ToolTip": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\MovieStore.cs",
+              "RelativeToolTip": "FilmAutomaiton\\MovieStore.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAqwLIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:31:49.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\Form1.cs",
+              "RelativeDocumentMoniker": "FilmAutomaiton\\Form1.cs",
+              "ToolTip": "C:\\Users\\eg315\\source\\repos\\FilmAutomaiton\\FilmAutomaiton\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FilmAutomaiton\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:30:09.999Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
